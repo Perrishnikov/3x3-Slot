@@ -1,0 +1,9 @@
+H:\Study Group\3x3 Slot Machine\3x3 Slot Machine\bin\Debug\3x3 Slot Machine.exe.config
+H:\Study Group\3x3 Slot Machine\3x3 Slot Machine\bin\Debug\3x3 Slot Machine.exe
+H:\Study Group\3x3 Slot Machine\3x3 Slot Machine\bin\Debug\3x3 Slot Machine.pdb
+H:\Study Group\3x3 Slot Machine\3x3 Slot Machine\obj\Debug\_3x3_Slot_Machine.Slots3x3.resources
+H:\Study Group\3x3 Slot Machine\3x3 Slot Machine\obj\Debug\_3x3_Slot_Machine.Properties.Resources.resources
+H:\Study Group\3x3 Slot Machine\3x3 Slot Machine\obj\Debug\3x3 Slot Machine.csproj.GenerateResource.Cache
+H:\Study Group\3x3 Slot Machine\3x3 Slot Machine\obj\Debug\3x3 Slot Machine.exe
+H:\Study Group\3x3 Slot Machine\3x3 Slot Machine\obj\Debug\3x3 Slot Machine.pdb
+H:\Study Group\3x3 Slot Machine\3x3 Slot Machine\obj\Debug\3x3 Slot Machine.csprojResolveAssemblyReference.cache
